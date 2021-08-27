@@ -1,3 +1,4 @@
 ﻿.project__comment-photo {
-
+  width: 360px;
+  object-fit: contain;
 }

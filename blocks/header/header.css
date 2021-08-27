@@ -4,4 +4,5 @@
   top: 0px;
   background-color: var(--basic-white);
   width: var(--width);
+  z-index: 2;
 }

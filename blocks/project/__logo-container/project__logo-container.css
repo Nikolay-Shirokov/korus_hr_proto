@@ -1,3 +1,9 @@
 ﻿.project__logo-container {
-
+  width: 240px;
+  height: 240px;
+  background-color: var(--basic-white);
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  grid-column: 2;
 }
