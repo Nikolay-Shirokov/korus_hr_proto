@@ -1,3 +1,16 @@
 ﻿.header__nav-link {
+  font-size: 11px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--basic-dark);
+  width: 100%;
+  display: block;
+  transition: background-color .2s;
+}
 
+.header__nav-link:hover {
+  background-color: rgb(219, 219, 219);
 }

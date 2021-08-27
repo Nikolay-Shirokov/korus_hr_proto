@@ -1,3 +1,7 @@
 ﻿.header {
-
+  border-bottom: 1px solid var(--basic-dark);
+  position: fixed;
+  top: 0px;
+  background-color: var(--basic-white);
+  width: var(--width);
 }

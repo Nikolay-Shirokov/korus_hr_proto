@@ -1,3 +1,8 @@
 ﻿.lead {
-
+ background-color: var(--basic-accent);
+ color: var(--basic-white);
+ min-height: 500px;
+ display: flex;
+ flex-direction: row;
+ padding-top: 50px;
 }

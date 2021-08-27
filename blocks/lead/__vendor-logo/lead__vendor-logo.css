@@ -1,3 +1,12 @@
 ﻿.lead__vendor-logo {
-
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: var(--basic-white);
+  color: var(--basic-accent);
+  width: 60px;
+  height: 60px;
+  margin: 0;
 }

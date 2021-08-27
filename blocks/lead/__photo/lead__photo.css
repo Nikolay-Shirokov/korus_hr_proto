@@ -1,3 +1,4 @@
 ﻿.lead__photo {
-
+  object-fit: cover;
+  display: block;
 }

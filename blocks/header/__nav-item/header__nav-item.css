@@ -1,3 +1,8 @@
 ﻿.header__nav-item {
-
+  border-left: 1px dotted var(--basic-dark);
+  min-width: 240px;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

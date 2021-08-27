@@ -1,3 +1,10 @@
 ﻿.header__logo {
+  background-image: url(../../../images/logo-korus.svg);
+  background-position: center;
+  background-size: 128px 36px;
+  background-repeat: no-repeat;
 
+  width: 360px;
+  min-height: 50px;
+  display: block;
 }
