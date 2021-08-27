@@ -18,3 +18,16 @@
 @import url(../blocks/lead/__vendor-text/lead__vendor-text.css);
 @import url(../blocks/lead/__photos/lead__photos.css);
 @import url(../blocks/lead/__photo/lead__photo.css);
+@import url(../blocks/advantage/advantage.css);
+@import url(../blocks/advantage/__about-company-list/advantage__about-company-list.css);
+@import url(../blocks/advantage/__about-company-item/advantage__about-company-item.css);
+@import url(../blocks/advantage/__text-accent/advantage__text-accent.css);
+@import url(../blocks/advantage/__text-bold/advantage__text-bold.css);
+@import url(../blocks/advantage/__about-dep/advantage__about-dep.css);
+@import url(../blocks/advantage/__colums/advantage__colums.css);
+@import url(../blocks/advantage/__column/advantage__column.css);
+@import url(../blocks/advantage/__column/_theme/advantage__column_theme_dark.css);
+@import url(../blocks/advantage/__column-icon/advantage__column-icon.css);
+@import url(../blocks/advantage/__column-title/advantage__column-title.css);
+@import url(../blocks/advantage/__column-list/advantage__column-list.css);
+@import url(../blocks/advantage/__column-point/advantage__column-point.css);

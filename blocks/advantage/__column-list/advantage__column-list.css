@@ -1,0 +1,9 @@
+﻿.advantage__column-list {
+  list-style-type: disc;
+  max-width: 360px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px
+}

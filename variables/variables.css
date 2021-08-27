@@ -1,6 +1,7 @@
 :root {
-  --basic-dark: black;
+  --basic-dark: #121239;
   --basic-white: white;
   --basic-accent: #F9423A;
+  --basic-accent-add: #FFF250;
   --width: 1440px;
 }
