@@ -1,0 +1,5 @@
+﻿.FAQ__item {
+  border-bottom: 1px solid var(--basic-white);
+  width: 100%;
+  display: block;
+}

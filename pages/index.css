@@ -25,7 +25,7 @@
 @import url(../blocks/advantage/__about-company-item/advantage__about-company-item.css);
 @import url(../blocks/text-accent/text-accent.css);
 @import url(../blocks/advantage/__text-bold/advantage__text-bold.css);
-@import url(../blocks/advantage/__about-dep/advantage__about-dep.css);
+@import url(../blocks/section-title/section-title.css);
 @import url(../blocks/advantage/__colums/advantage__colums.css);
 @import url(../blocks/advantage/__column/advantage__column.css);
 @import url(../blocks/advantage/__column/_theme/advantage__column_theme_dark.css);
@@ -34,7 +34,6 @@
 @import url(../blocks/advantage/__column-list/advantage__column-list.css);
 @import url(../blocks/advantage/__column-point/advantage__column-point.css);
 @import url(../blocks/projects/projects.css);
-@import url(../blocks/projects/_title/projects_title.css);
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__description/project__description.css);
 @import url(../blocks/project/__logo-container/project__logo-container.css);
@@ -67,8 +66,16 @@
 @import url(../blocks/interview/__preview/interview__preview.css);
 @import url(../blocks/interview/__video-play/interview__video-play.css);
 @import url(../blocks/conditions/conditions.css);
-@import url(../blocks/conditions/__title/conditions__title.css);
 @import url(../blocks/conditions/__list/conditions__list.css);
 @import url(../blocks/conditions/__item/conditions__item.css);
 @import url(../blocks/conditions/__counter/conditions__counter.css);
 @import url(../blocks/conditions/__text/conditions__text.css);
+@import url(../blocks/FAQ/FAQ.css);
+@import url(../blocks/FAQ/__list/FAQ__list.css);
+@import url(../blocks/FAQ/__item/FAQ__item.css);
+@import url(../blocks/FAQ/__answer-container/FAQ__answer-container.css);
+@import url(../blocks/FAQ/__question/FAQ__question.css);
+@import url(../blocks/FAQ/__avatar/FAQ__avatar.css);
+@import url(../blocks/FAQ/__answer/FAQ__answer.css);
+@import url(../blocks/FAQ/__answer-text/FAQ__answer-text.css);
+@import url(../blocks/FAQ/__answer-person/FAQ__answer-person.css);

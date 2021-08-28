@@ -1,0 +1,6 @@
+﻿.FAQ__list {
+  background-color: var(--basic-gray);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

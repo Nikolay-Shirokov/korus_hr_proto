@@ -1,0 +1,6 @@
+﻿.FAQ__answer-container {
+  display: none;
+  flex-direction: row;
+  gap: 120px;
+  padding: 0 240px 48px 120px;
+}
