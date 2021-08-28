@@ -1,0 +1,11 @@
+﻿.conditions__counter {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 60px;
+  width: 60px;
+  height: 60px;
+  background-color: var(--basic-dark);
+  color: var(--basic-white);
+  text-align: center;
+  margin: 0;
+}

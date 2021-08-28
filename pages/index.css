@@ -1,5 +1,6 @@
 ﻿@import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
+
 @import url(../variables/variables.css);
 
 @import url(../blocks/root/root.css);
@@ -10,6 +11,7 @@
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
+@import url(../blocks/content/content.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__desciption/lead__desciption.css);
 @import url(../blocks/lead/__title/lead__title.css);
@@ -64,3 +66,9 @@
 @import url(../blocks/interview/__video/interview__video.css);
 @import url(../blocks/interview/__preview/interview__preview.css);
 @import url(../blocks/interview/__video-play/interview__video-play.css);
+@import url(../blocks/conditions/conditions.css);
+@import url(../blocks/conditions/__title/conditions__title.css);
+@import url(../blocks/conditions/__list/conditions__list.css);
+@import url(../blocks/conditions/__item/conditions__item.css);
+@import url(../blocks/conditions/__counter/conditions__counter.css);
+@import url(../blocks/conditions/__text/conditions__text.css);

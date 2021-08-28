@@ -1,0 +1,7 @@
+﻿.conditions__item {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  max-width: 480px;
+}
