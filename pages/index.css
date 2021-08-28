@@ -52,3 +52,15 @@
 @import url(../blocks/project/__person-container/project__person-container.css);
 @import url(../blocks/project/__comment-person/project__comment-person.css);
 @import url(../blocks/project/__comment-person-position/project__comment-person-position.css);
+@import url(../blocks/interviews/interviews.css);
+@import url(../blocks/interviews/__list/interviews__list.css);
+@import url(../blocks/interview/interview.css);
+@import url(../blocks/interview/__description/interview__description.css);
+@import url(../blocks/interview/__caption/interview__caption.css);
+@import url(../blocks/interview/__person/interview__person.css);
+@import url(../blocks/interview/__position/interview__position.css);
+@import url(../blocks/interview/__quote/interview__quote.css);
+@import url(../blocks/interview/__button-read-more/interview__button-read-more.css);
+@import url(../blocks/interview/__video/interview__video.css);
+@import url(../blocks/interview/__preview/interview__preview.css);
+@import url(../blocks/interview/__video-play/interview__video-play.css);

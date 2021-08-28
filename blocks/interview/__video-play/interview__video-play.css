@@ -1,0 +1,29 @@
+﻿.interview__video-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  background-color: var(--basic-accent);
+  width: 80px;
+  height: 80px;
+  border: none;
+  transform: translate(-50%,-50%);
+  transition: opacity .3s;
+}
+
+.interview__video-play:hover {
+  opacity: .9;
+  cursor: pointer;
+  transform: translate(-50%,-50%) scale(1.1);
+  transition: opacity .3s, transform .3s;
+}
+
+.interview__video-play::before {
+  content: '';
+  border: 20px solid transparent;
+  border-left: 20px solid white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-15%,-50%);
+}

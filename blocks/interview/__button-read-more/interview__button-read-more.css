@@ -1,0 +1,18 @@
+﻿.interview__button-read-more {
+  font-size: 11px;
+  line-height: 15px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: inherit;
+  width: 164px;
+  height: 30px;
+  border: 1px solid var(--basic-white);
+  background-color: var(--basic-dark);
+  transition: opacity .3s;
+}
+
+.interview__button-read-more:hover {
+  cursor: pointer;
+  opacity: .5;
+}
