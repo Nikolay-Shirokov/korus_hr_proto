@@ -1,0 +1,22 @@
+﻿.footer__link {
+  font-size: 12px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: inherit;
+  padding-left: 22px;
+  position: relative;
+  text-decoration: none;
+}
+
+.footer__link::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 12px;
+  height: 12px;
+  display: block;
+  background-image: url(../../../images/arrow-link.svg);
+}

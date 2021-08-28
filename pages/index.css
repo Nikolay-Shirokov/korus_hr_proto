@@ -79,3 +79,15 @@
 @import url(../blocks/FAQ/__answer/FAQ__answer.css);
 @import url(../blocks/FAQ/__answer-text/FAQ__answer-text.css);
 @import url(../blocks/FAQ/__answer-person/FAQ__answer-person.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/active-element/active-element.css);
+@import url(../blocks/footer/__social-links/footer__social-links.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__socal-icon/footer__socal-icon.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/footer/__office/footer__office.css);
+@import url(../blocks/footer/__adress/footer__adress.css);
+@import url(../blocks/footer/__open-map/footer__open-map.css);
+@import url(../blocks/footer/__phone/footer__phone.css);
