@@ -1,4 +1,5 @@
 const popupInterview = document.querySelector('.popup_name_full-interview');
+const popupMap = document.querySelector('.popup_name_map');
 
 let openedPopup;
 
@@ -24,4 +25,11 @@ document.querySelectorAll('.popup').forEach(popup => {
 
 document.querySelectorAll('.interview__button-read-more').forEach(buttonElement => {
   buttonElement.addEventListener('click', () => openPopup(popupInterview));
+})
+
+document.querySelectorAll('.footer__open-map').forEach(buttonElement => {
+  buttonElement.addEventListener('click', event => {
+    popupMap.querySelector('iframe').src = event.target.dataset.src;
+    openPopup(popupMap);
+  })
 })
