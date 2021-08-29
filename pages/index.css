@@ -91,3 +91,17 @@
 @import url(../blocks/footer/__adress/footer__adress.css);
 @import url(../blocks/footer/__open-map/footer__open-map.css);
 @import url(../blocks/footer/__phone/footer__phone.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/full-interview/full-interview.css);
+@import url(../blocks/full-interview/__photo/full-interview__photo.css);
+@import url(../blocks/full-interview/__container/full-interview__container.css);
+@import url(../blocks/full-interview/__subtitle/full-interview__subtitle.css);
+@import url(../blocks/full-interview/__person/full-interview__person.css);
+@import url(../blocks/full-interview/__person-position/full-interview__person-position.css);
+@import url(../blocks/full-interview/__questions/full-interview__questions.css);
+@import url(../blocks/full-interview/__question-item/full-interview__question-item.css);
+@import url(../blocks/full-interview/__question/full-interview__question.css);
+@import url(../blocks/full-interview/__answer/full-interview__answer.css);
+@import url(../blocks/full-interview/__date/full-interview__date.css);
+@import url(../blocks/popup/__close-button/popup__close-button.css);

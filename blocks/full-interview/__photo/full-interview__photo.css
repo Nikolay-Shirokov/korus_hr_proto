@@ -1,0 +1,5 @@
+﻿.full-interview__photo {
+  max-width: 240px;
+  object-fit: contain;
+  align-self: start;
+}

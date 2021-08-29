@@ -1,0 +1,7 @@
+﻿.full-interview {
+  background-color: var(--basic-white);
+  display: flex;
+  flex-direction: row;
+  gap: 90px;
+  padding: 90px 90px 90px 90px;
+}
