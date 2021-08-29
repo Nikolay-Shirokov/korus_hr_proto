@@ -1,0 +1,3 @@
+﻿.transition-show {
+  transition: visibility .3s, opacity .3s;
+}
