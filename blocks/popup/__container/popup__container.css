@@ -1,6 +1,6 @@
 ﻿.popup__container {
-  max-width: 100%;
+  max-width: 75%;
   max-height: 95vh;
   position: relative;
-  overflow-y: scroll;
+/*   overflow-y: scroll; */
 }
