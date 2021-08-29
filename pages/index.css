@@ -96,6 +96,7 @@
 @import url(../blocks/popup/_name/popup_name_full-interview.css);
 @import url(../blocks/popup/_opened/popup_opened.css);
 @import url(../blocks/transition-show/transition-show.css);
+@import url(../blocks/popup/_wrapper/popup_wrapper.css);
 @import url(../blocks/popup/__container/popup__container.css);
 @import url(../blocks/full-interview/full-interview.css);
 @import url(../blocks/full-interview/__photo/full-interview__photo.css);
