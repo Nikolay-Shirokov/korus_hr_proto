@@ -9,10 +9,11 @@
   border: none;
   transform: translate(-50%,-50%);
   transition: opacity .3s;
+  opacity: .9;
 }
 
 .interview__video-play:hover {
-  opacity: .9;
+  opacity: .8;
   cursor: pointer;
   transform: translate(-50%,-50%) scale(1.1);
   transition: opacity .3s, transform .3s;
